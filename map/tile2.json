@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "scheme": "xyz",
   "tiles": [
-    "https://raw.githubusercontent.com/eltonsouzace/bi/main/map/tiles/{z}/{x}/{y}.png"
+    "https://arcelormittal.sharepoint.com/sites/EEC/KPI/BI/map/tiles/{z}/{x}/{y}.png?Download=1"
   ]
 }
